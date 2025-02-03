@@ -1,0 +1,4 @@
+name: SaoCursorMC
+version: '1.0-SNAPSHOT'
+main: com.eighteen.saoCursorMC.SaoCursorMC
+api-version: '1.20'
